@@ -1,2 +1,2 @@
-- 😀 Programador que prefere back-end porem improvisa no front-end 
-- ⌨️ Linguagens dominantes: Java, Typescript
+- 😀  Programador que prefere back-end porem improvisa no front-end 
+- ⌨️  Linguagens dominantes: Java, Typescript
