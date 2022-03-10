@@ -1,5 +1,5 @@
 Olá, meu nome é Brayan
 <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brayanJordan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img left="16em" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanJordan&layout=compact&langs_count=7&theme=dark"/>
+    <img margin-left="16px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanJordan&layout=compact&langs_count=7&theme=dark"/>
 </div>
